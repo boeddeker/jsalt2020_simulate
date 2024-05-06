@@ -35,7 +35,7 @@ function print_usage_and_exit {
 }
 
 
-nj=32  # default parallel jobs
+nj=4  # default parallel jobs
 
 while true
 do 
